@@ -6,6 +6,6 @@
 3. Feathers Integration with sequelize
 
 ## 2. pg-promise express
-	Serve postgres pg-promise over express json responses on the url /pull. Only gets 50 records to save time as this is a basic proof. Use the python library http(todo: link) for easy terminal requests. 
+Serve postgres pg-promise over express json responses on the url /pull. Only gets 50 records to save time as this is a basic proof. Use the python library http(todo: link) for easy terminal requests. 
 
 	
